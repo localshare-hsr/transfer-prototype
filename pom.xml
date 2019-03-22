@@ -25,7 +25,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ch.hsr.epj.transferprototype.Main</mainClass>
+                            <mainClass>ch.hsr.epj.localshare.transferprototype.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
